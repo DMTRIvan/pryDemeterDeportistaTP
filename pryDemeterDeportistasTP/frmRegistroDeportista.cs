@@ -116,6 +116,7 @@ namespace pryDemeterDeportistasTP
         private void txtApellido_TextChanged_1(object sender, EventArgs e)
         {
             Comprobar();
+          //hola commo andas
         }
 
         private void txtDireccion_TextChanged_1(object sender, EventArgs e)
